@@ -1,0 +1,4 @@
+{
+  "db": [{"hostname": "localhost", "username": "postgres", "password": "postgres", "dbname": "las_db"}],
+  "salt": "zxczxczczxczxc"
+}
